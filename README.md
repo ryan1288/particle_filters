@@ -32,7 +32,6 @@ Scripts (in /src):
 My work is in the `particle_filter.cpp`.
 
 An example of the output is shown below (blue circle is my localization and the car is the ground truth):
-
 ![][image1]
 
 The resultant accuracy is ~10cm and under 0.2 degrees in yaw. 
