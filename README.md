@@ -4,7 +4,7 @@ The goals / steps of this project are the following:
 * Initialize reasonable particles based on GPS data using a Gaussian distribution
 * Predict the motion model using a bicycle model in discrete timesteps
 * Use Nearest Neighbor algorithm to associate predictions with the observations
-* Update weights using the multi-variate Guassian distribution
+* Update weights using the multi-variate Gaussian distribution
 * Re-sample all particles based on particle weights
 * Test the algorithms in a 2D car simulator with landmarks
 
